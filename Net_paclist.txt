@@ -1,0 +1,15 @@
+avahi
+bridge-utils
+dnsutils
+ebtables
+firewalld
+iptables-nft
+netctl
+net-tools
+networkmanager
+network-manager-applet
+networkmanager-openvpn
+nm-connection-editor
+nss-mdns
+wget
+whois

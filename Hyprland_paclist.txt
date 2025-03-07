@@ -1,0 +1,7 @@
+hyprland
+qt5-wayland
+qt6-wayland
+waybar
+hyprpaper
+hyprcursor
+xdg-desktop-portal-hyprland
